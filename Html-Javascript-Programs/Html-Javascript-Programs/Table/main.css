@@ -1,0 +1,31 @@
+﻿
+body {
+    font-family: Arial;
+    
+}
+
+th {
+    background-color: gold;
+}
+
+td {
+    background-color:pink;
+    
+}
+
+table {
+    height: 500px;
+    width: 500px;
+}
+
+#txtArea {
+    height: 80px;
+    width: 200px;
+    
+}
+
+button {
+    height: 40px;
+    width: 148px;
+}
+

@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>My Table in HTML</title>
+    <link href="main.css" rel="stylesheet" />
+    <script src="JavaScript1.js"></script>
+</head>
+<body>
+
+    <table>
+        <tr>
+            <th colspan="2">
+                Resistation Form 
+            </th>
+        </tr>
+        <tr>
+            <td>
+                <label>Enter Name</label>
+            </td>
+            <td>
+                <input type="text" placeholder="Enter Name" id="txtName" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>Enter Email</label>
+            </td>
+            <td>
+                <input type="text" id="txtEmail" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>Password</label>
+            </td>
+            <td>
+                <input type="password" id="txtPwd" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>DOB</label>
+            </td>
+            <td>
+                <input type="text" id="txtDob" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>MOB</label>
+            </td>
+            <td>
+                <input type="text" id="txtMob" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>Gender</label>
+            </td>
+            <td>
+                <input type="radio" name="gender" id="radioMale" />Male
+                <input type="radio" name="gender" id="radioFemale" />Female
+
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>Qualifiction</label>
+            </td>
+            <td>
+                <input type="checkbox" id="check10th" />10th
+                <input type="checkbox" id="check12th" />12th
+                <input type="checkbox" id="checkGraduation" />Graduation
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>Country</label>
+            </td>
+            <td>
+                <select>
+                    <option>Please Select Country</option>
+                    <option id="select">India</option>
+                    <option>USA</option>
+                    <option>UK</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>Address</label>
+            </td>
+            <td>
+                <textarea id="txtArea"></textarea>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <button onclick="btn()">Submit</button>
+            </td>
+        </tr>
+
+    </table>
+
+</body>
+</html>
