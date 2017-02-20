@@ -1,0 +1,6 @@
+E:\Rajnish Dot Net\git\html-javascript\Html-Javascript-Programs\SchoolWebsite\SchoolWebsite\bin\SchoolWebsite.dll.config
+E:\Rajnish Dot Net\git\html-javascript\Html-Javascript-Programs\SchoolWebsite\SchoolWebsite\bin\SchoolWebsite.dll
+E:\Rajnish Dot Net\git\html-javascript\Html-Javascript-Programs\SchoolWebsite\SchoolWebsite\bin\SchoolWebsite.pdb
+E:\Rajnish Dot Net\git\html-javascript\Html-Javascript-Programs\SchoolWebsite\SchoolWebsite\obj\Debug\SchoolWebsite.csprojResolveAssemblyReference.cache
+E:\Rajnish Dot Net\git\html-javascript\Html-Javascript-Programs\SchoolWebsite\SchoolWebsite\obj\Debug\SchoolWebsite.dll
+E:\Rajnish Dot Net\git\html-javascript\Html-Javascript-Programs\SchoolWebsite\SchoolWebsite\obj\Debug\SchoolWebsite.pdb
